@@ -1,0 +1,636 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\request\\updateroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\request\\updateroomrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\request\\createloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\request\\createloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\request\\createtransactionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\request\\createtransactionsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\controllers\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\controllers\\paymentmethodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\hotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\hotels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\request\\createsignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\request\\createsignuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\result\\gethotelsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\result\\gethotelsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\hotellocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\hotellocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\controllers\\hotellocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\controllers\\hotellocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\result\\gethotellocationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\result\\gethotellocationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DemoPractice\\Testing\\Testing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DemoPractice\\Testing\\Testing\\Testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\result\\getusersresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\result\\getusersresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\result\\getroomresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\result\\getroomresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\estaybackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\estaybackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\result\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\result\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\result\\getcityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\result\\getcityresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\request\\createpaymentmethodrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\request\\createpaymentmethodrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\result\\gettransactionsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\result\\gettransactionsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\models\\result\\getpaymentmethodresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\models\\result\\getpaymentmethodresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|d:\\semester 4\\proyek se\\backend\\estaybackend\\estaybackend\\estaybackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7368B4B-3FE5-4800-BC47-63682325AB3A}|EstayBackend\\EstayBackend.csproj|solutionrelative:estaybackend\\estaybackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EstayBackend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:04:50.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "EstayBackend\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T07:29:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateLoginRequest.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\CreateLoginRequest.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Request\\CreateLoginRequest.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\CreateLoginRequest.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Request\\CreateLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:44:10.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Controllers\\HotelController.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\HotelController.cs",
+              "RelativeToolTip": "EstayBackend\\Controllers\\HotelController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA5wB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:50:03.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateRoomRequest.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\UpdateRoomRequest.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Request\\UpdateRoomRequest.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\UpdateRoomRequest.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Request\\UpdateRoomRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T13:28:15.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "EstayBackend\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswDIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:43:15.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTransactionsRequest.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\CreateTransactionsRequest.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Request\\CreateTransactionsRequest.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\CreateTransactionsRequest.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Request\\CreateTransactionsRequest.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:52:11.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Room.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Room.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Room.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:39:47.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\PaymentMethod.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:53:51.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentMethodController.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\PaymentMethodController.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Controllers\\PaymentMethodController.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\PaymentMethodController.cs",
+              "RelativeToolTip": "EstayBackend\\Controllers\\PaymentMethodController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:45:57.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Transactions.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Transactions.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Transactions.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Transactions.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:57:09.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Users.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Users.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Users.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:26:01.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Hotels.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Hotels.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Hotels.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Hotels.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Hotels.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:46:07.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateSignUpRequest.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\CreateSignUpRequest.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Request\\CreateSignUpRequest.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\CreateSignUpRequest.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Request\\CreateSignUpRequest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:46:39.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelLocationController.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\HotelLocationController.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Controllers\\HotelLocationController.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\HotelLocationController.cs",
+              "RelativeToolTip": "EstayBackend\\Controllers\\HotelLocationController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:06:01.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetHotelsResult.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetHotelsResult.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Result\\GetHotelsResult.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetHotelsResult.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Result\\GetHotelsResult.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:21:20.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HotelLocation.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\HotelLocation.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\HotelLocation.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\HotelLocation.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\HotelLocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:35:45.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EstayBackend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:14:19.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Controllers\\CityController.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Controllers\\CityController.cs",
+              "RelativeToolTip": "EstayBackend\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:53:23.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetHotelLocationResult.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetHotelLocationResult.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Result\\GetHotelLocationResult.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetHotelLocationResult.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Result\\GetHotelLocationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:29:18.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EstayBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:15:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EstayBackend\\appsettings.Development.json",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\appsettings.Development.json",
+              "RelativeToolTip": "EstayBackend\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T03:20:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Program.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Program.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Program.cs",
+              "RelativeToolTip": "EstayBackend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:22:53.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "EstayBackend\\appsettings.json",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\appsettings.json",
+              "RelativeToolTip": "EstayBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T03:20:29.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DemoPractice\\Testing\\Testing\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DemoPractice\\Testing\\Testing\\appsettings.json",
+              "ToolTip": "D:\\DemoPractice\\Testing\\Testing\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\DemoPractice\\Testing\\Testing\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T06:24:07.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Testing.csproj",
+              "DocumentMoniker": "D:\\DemoPractice\\Testing\\Testing\\Testing.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\DemoPractice\\Testing\\Testing\\Testing.csproj",
+              "ToolTip": "D:\\DemoPractice\\Testing\\Testing\\Testing.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\DemoPractice\\Testing\\Testing\\Testing.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T06:24:06.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\City.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\City.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\City.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:33:51.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EstayBackend",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\EstayBackend.csproj",
+              "RelativeDocumentMoniker": "EstayBackend\\EstayBackend.csproj",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\EstayBackend.csproj",
+              "RelativeToolTip": "EstayBackend\\EstayBackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T01:35:09.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetRoomResults.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetRoomResults.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Result\\GetRoomResults.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetRoomResults.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Result\\GetRoomResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:24:38.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetUsersResult.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetUsersResult.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Result\\GetUsersResult.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetUsersResult.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Result\\GetUsersResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:11:32.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EstayBackend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EstayBackend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T01:27:19.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetCityResult.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetCityResult.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Result\\GetCityResult.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetCityResult.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Result\\GetCityResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:30:20.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Result\\ApiResponse.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\ApiResponse.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Result\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:09:09.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\WeatherForecast.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\WeatherForecast.cs",
+              "RelativeToolTip": "EstayBackend\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T02:14:09.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreatePaymentMethodRequest.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\CreatePaymentMethodRequest.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Request\\CreatePaymentMethodRequest.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Request\\CreatePaymentMethodRequest.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Request\\CreatePaymentMethodRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:50:13.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetTransactionsResult.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetTransactionsResult.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Result\\GetTransactionsResult.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetTransactionsResult.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Result\\GetTransactionsResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:17:02.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetPaymentMethodResult.cs",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetPaymentMethodResult.cs",
+              "RelativeDocumentMoniker": "EstayBackend\\Models\\Result\\GetPaymentMethodResult.cs",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\Models\\Result\\GetPaymentMethodResult.cs",
+              "RelativeToolTip": "EstayBackend\\Models\\Result\\GetPaymentMethodResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:15:05.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EstayBackend.csproj",
+              "DocumentMoniker": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\EstayBackend.csproj",
+              "RelativeDocumentMoniker": "EstayBackend\\EstayBackend.csproj",
+              "ToolTip": "D:\\semester 4\\Proyek SE\\Backend\\EstayBackend\\EstayBackend\\EstayBackend.csproj",
+              "RelativeToolTip": "EstayBackend\\EstayBackend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-08T02:25:20.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
