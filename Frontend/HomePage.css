@@ -1,0 +1,245 @@
+body{
+    font-family: "Poppins",sans-serif;
+}
+@media screen and (min-width: 1440px){
+    .logo img{
+        width: 126px;
+        height: 46px;
+    }
+    .profile img{
+        width: 126px;
+        height: 46px;
+    }
+    header{
+        border-bottom: 1px solid black;
+    }
+    header.navbar-container{
+        width: 100%;
+        min-width: 1440px;
+        padding-block: 1rem;
+        margin-inline: auto;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        z-index: 9999;
+    }
+    header.navbar-container .nav-list ul{
+        padding-left: 0;
+        display: flex;
+        justify-content: center;
+        gap: 2rem 1rem;
+    }
+    header.navbar-container .nav-list li{
+        list-style-type: none;
+    }
+    header.navbar-container .nav-list li a{
+        padding: 0.5rem 1.5rem;
+        border: 999px;
+        text-decoration: none;
+        font-size: 1.05rem;
+        font-weight: 500;
+        color: black;
+        transition: all 0.2s ease-in-out;
+    }
+    header.navbar-container .nav-list li:hover a{
+        background-color: #152C5B;
+        color: white;
+    }
+    .isi{
+        padding-top: 2rem; 
+    }
+    #searchForm{
+        display: flex;
+        justify-content: center;
+    }
+    #searchInput{
+        height: 35px;
+        width: 600px;
+        border-top-left-radius: 16px;
+        border-bottom-left-radius: 16px;
+        padding: 5px;
+        font-size: 20px;
+        border: 1px solid black;
+    }
+    #btnSearch{
+        width: 100px;
+        font-size: 20px;
+        border-top-right-radius: 16px;
+        border-bottom-right-radius: 16px;
+        border: 1px solid black;
+        background-color: #152C5B;
+        color: white;
+    }
+    .introduction{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 6rem;
+        padding-top: 2rem;
+    }
+    .icon{
+        display: flex;
+        flex-direction: row;
+        gap: 2rem;
+        padding-top: 3rem;
+    }
+    .icon span{
+        color: #152C5B;
+    }
+    .icon p{
+        color: #7A7979;
+    }
+    .kiri h3{
+        font-size: 35px;
+        color: #152C5B;
+    }
+    .kiri p{
+        font-size: 20px;
+        color: #7A7979;
+    }
+    .kiri button{
+        margin-top: 10px;
+        width: 300px;
+        padding: 5px;
+        border: none;
+        background-color: #152C5B;
+        color: white;
+        border-radius: 4px;
+        height: 35px;
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+    .kiri a{
+        text-decoration: none;
+        color: white;
+    }
+    .houses{
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 2rem;
+    }
+    .houses h3{
+        font-size: 25px;
+        color: #152C5B;
+    }
+    .card-houses{
+        display: flex;
+        flex-direction: row;
+        gap: 5rem;
+        justify-content: center;
+
+    }
+    .card-houses img{
+        filter: grayscale(75%);
+    }
+    .card-houses img:hover{
+        filter: grayscale(0%);
+    }
+    .recomendation{
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 2rem;
+    }
+    .recomendation h3{
+        font-size: 25px;
+        color: #152C5B;
+    }
+    .card-recomendation{
+        display: flex;
+        flex-direction: row;
+        gap: 5rem;
+        justify-content: center;
+    }
+    .apartments{
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 2rem;
+    }
+    .apartments h3{
+        font-size: 25px;
+        color: #152C5B;
+    }
+    .card-apartments{
+        display: flex;
+        flex-direction: row;
+        gap: 5rem;
+        justify-content: center;
+    }
+    .card img{
+        filter: grayscale(75%);
+    }
+    .card img:hover{
+        filter: grayscale(0%);
+    }
+    .card{
+        display: flex;
+        flex-direction: column;
+        border: 1px solid #ccc;
+        background-color: #CAF4FF;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius:16px;
+        padding: 1rem;
+        transition: transform 0.3s; 
+    }
+    .card .place{
+        color: #7A7979;
+        margin-top: 0;
+    }
+    .card .sub{
+        color: #152C5B;
+    }
+    .card img{
+        height: 140px;
+        width: 250px;
+        border-radius: 8px;
+        object-fit: cover;
+        transition: transform 0.3s ease-in-out;
+    }
+    .card:hover{
+        transform: scale(1.2);
+    }
+
+    footer{
+        margin-top: 2rem;
+    }
+    footer.bawah{
+        width: 100%;
+        min-width: 1440px;
+        padding-block: 1rem;
+        margin-inline: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        z-index: 9999;
+        background-color: #6DC5D1;
+    }
+    .Detail{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: -0.5rem;
+    }
+    .judul-bawah{
+        color: white;
+    }
+    .Contact{
+        color: white;
+    }
+    .Detail a{
+        text-decoration: none;
+        color: white;
+    }
+    .Detail p{
+        color: white;
+    }
+    footer h3{
+        color: #152C5B;
+    }
+    .atas{
+        padding-left: 2rem;
+    }
+    .atas p{
+        font-size: 20px;
+        font-weight: 500;
+    }
+}

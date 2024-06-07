@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="./../CSS/HomePage.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="navbar-container">
+        <div class="logo">
+            <img src="./../Assets/e-stay-high-resolution-logo-transparent.png" alt="">
+        </div>
+        <nav class="nav-list">
+            <ul>
+                <li><a href="HomePage.html">Home</a></li>
+                <li><a href="TransactionsPage.html">History</a></li>
+                <li><a href="LoginPage.html" id="BtnLogOut">Log Out</a></li>
+                <div class="profile" onclick="">
+                    <img src="./../Assets/profile.svg" alt="">
+                </div>
+            </ul>
+        </nav>
+    </header>
+    <div class="isi">
+        <form id="searchForm" action="#" method="">
+            <input type="text" id="searchInput" name="#" placeholder="Search Hotel...">
+            <button id="btnSearch" type="submit">Search</button>
+        </form>
+        <div class="atas">
+            <p id="User-info"></p>
+        </div>
+        <div class="introduction">
+            <div class="kiri">
+                <h3>Forget Busy Work, <br>Start Next Vacation</h3>
+                <p>We provide what you need to enjoy your <br> 
+                    holiday with family. Time to make another <br>
+                    memorable moments.</p>
+                <button><a href="#re">Show Me Now</a></button>
+                <div class="icon">
+                    <div>
+                        <img src="./../Assets/ic_traveler (1) 1.png" alt="">
+                        <p><span>80,409</span> travellers</p>
+                    </div>
+                    <div>
+                        <img src="./../Assets/ic_treasure 1.png" alt="">
+                        <p><span>862</span> treasures</p>
+                    </div>
+                    <div>
+                        <img src="./../Assets/ic_cities 1.png" alt="">
+                        <p><span>1,492</span> cities</p>
+                    </div>
+                </div>
+            </div>
+            <div class="kanan">
+                <img src="./../Assets/banner.png" alt="">
+            </div>
+        </div>
+        <div class="recomendation" id="re">
+            <h3>Recomendation Hotels</h3>
+            <div class="card-recomendation">
+
+            </div>
+        </div>
+        <div class="houses">
+            <h3>Hotels with beauty backyard</h3>
+            <div class="card-houses">
+                <div class="card">
+                    <img src="./../Assets/pic.png" alt="">
+                    <p class="Sub">Tabby Town</p>
+                    <p class="place">Gunung Batu, Indonesia</p>
+                </div>
+                <div class="card">
+                    <img src="./../Assets/pic (1).png" alt="">
+                    <p class="Sub">Anggana</p>
+                    <p class="place">Bogor, Indonesia</p>
+                </div>
+                <div class="card">
+                    <img src="./../Assets/pic (2).png" alt="">
+                    <p class="Sub">Seattle Rain</p>
+                    <p class="place">Jakarta, Indonesia</p>
+                </div>
+                <div class="card">
+                    <img src="./../Assets/pic (3).png" alt="">
+                    <p class="Sub">Wooden pit</p>
+                    <p class="place">Wonosobo, Indonesia</p>
+                </div>
+            </div>
+        </div>
+        <div class="apartments">
+            <h3>Apartments with kitchen set</h3>
+            <div class="card-apartments">
+                <div class="card">
+                    <img src="./../Assets/pic (4).png" alt="">
+                    <p class="Sub">PS Wood</p>
+                    <p class="place">Depok, Indonesia</p>
+                </div>
+                <div class="card">
+                    <img src="./../Assets/pic (5).png" alt="">
+                    <p class="Sub">One Five</p>
+                    <p class="place">Jakarta, Indonesia</p>
+                </div>
+                <div class="card">
+                    <img src="./../Assets/pic (6).png" alt="">
+                    <p class="Sub">Minimal</p>
+                    <p class="place">Bogor, Indonesia</p>
+                </div>
+                <div class="card">
+                    <img src="./../Assets/pic (7).png" alt="">
+                    <p class="Sub">Stays Home</p>
+                    <p class="place">Wonosobo, Indonesia</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="bawah">
+        <div class="judul-bawah">
+            <h3>E-Stay</h3>
+            <p>We wish you an easy stay</p>
+        </div>
+        <div class="Detail">
+            <h3>Explore Us</h3>
+            <a href="#">About Us</a>
+            <a href="#">Terms and Condition</a>
+            <p>Copyright 2019 • All rights reserved • Staycation</p>
+        </div>
+        <div class="Contact">
+            <h3>Contact Us</h3>
+            <p>estay@hotstar.id</p>
+            <p>+62 888 999 112</p>
+            <p>Staycation, Kemang, Jakarta</p>
+        </div>
+    </footer>
+    <script src="./../Javascript/Home.js"></script>
+</body>
+</html>

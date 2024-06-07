@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Room</title>
+    <link rel="stylesheet" href="./../CSS/BookingRoomPage.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="header">
+        <img src="./../Assets/e-stay-high-resolution-logo-transparent.png" alt="">
+    </div>
+    <div class="isi">
+        <div class="judul-atas">
+            <h3>Booking Room</h3>
+        </div>
+        <div class="judul-bawah">
+            <p>Please fill up the blank field below</p>
+        </div>
+        <div class="kamar">
+            <p>Pool</p>
+            <div class="row" id="rowA">
+                <!-- <div class="blok-kamar">A102</div> -->
+            </div>
+            <p>Hall</p>
+            <div class="row" id="rowB">
+                <!-- <div class="blok-kamar">B104</div> -->
+            </div>
+            <p>Road</p>
+        </div>
+        <div class="price">
+            <p class="text">you have selected <span id="count">0</span> rooms for price of Rp. <span id="total">0</span></p>
+        </div>
+        <div class="day">
+            <p class="text">You have booking the room for: <span id="countDays">0</span> days</p>     
+        </div>
+        <div class="tgl">
+            <label for="startDate">Start Date:</label>
+            <input type="date" id="startDate" required>
+            
+            <label for="endDate">End Date:</label>
+            <input type="date" id="endDate" required>
+        </div>
+        <div class="button">
+            <button id="btnContinue" disabled>Continue to Payment</button>
+            <button id="btnCancel">Cancel</button>
+        </div>
+    </div>
+    <script src="./../Javascript/Room.js"></script>
+</body>
+</html>
