@@ -1,0 +1,61 @@
+body{
+    font-family: "Poppins",sans-serif;
+}
+@media screen and (min-width: 1440px){
+    .header img{
+        width: 126px;
+        height: 46px;
+    }
+    .header{
+        display: flex;
+        justify-content: center;
+        border-bottom: solid 1px grey;
+        padding: 10px;
+    }
+    .judul-atas{
+        color: #152C5B;
+        font-size: 30px;
+        margin-bottom: -30px;
+    }
+    .judul-bawah{
+        font-size: 20px;
+    }
+    .isi{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .tampungan{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+    .container{
+        border: 1px solid black;
+        padding: 2rem;
+        border-radius: 8px;
+        width: 250px; 
+    }
+    .container p{
+        font-weight: 600;
+        color: #152C5B;
+    }
+    .tampungan h3{
+        color: #152C5B;
+    }
+    .button{
+        margin-top: 2rem;
+    }
+    #btnHome{
+        margin-top: 10px;
+        width: 300px;
+        padding: 5px;
+        border: none;
+        background-color: #152C5B;
+        color: white;
+        border-radius: 4px;
+        height: 35px;
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+}
