@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Page</title>
+    <link rel="stylesheet" href="./../CSS/PaymentPage.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="header">
+        <img src="./../Assets/e-stay-high-resolution-logo-transparent.png" alt="">
+    </div>
+    <div class="isi">
+        <div class="judul-atas">
+            <h3>Payment</h3>
+        </div>
+        <div class="judul-bawah">
+            <p>Kindly follow the instruction below</p>
+        </div>
+        <div class="detail">
+            <p>Payment transfer:</p>
+            <p>Tax: 10%</p>
+            <p>Sub total: Rp. <span id="Sub"></span> </p>
+            <p>Total: Rp. <span id="Sab"></span></p>
+        </div>
+        <form id="pilihan" action="#">
+            <div class="pembayaran">
+                <input type="radio" id="4" name="payment-method" value="BCA" data-method-type="CC">
+                <img src="./../Assets/Bank_Central_Asia.svg.webp" alt="">
+                <label for="bca" id="lblBCA"></label>
+            </div>
+            <div class="pembayaran">
+                <input type="radio" id="1" name="payment-method" value="Gopay" data-method-type="E-wallet">
+                <img src="./../Assets/Gopay_logo.svg.png" alt="">
+                <label for="gopay" id="lblGOPAY"></label>
+            </div>
+            <div class="pembayaran">
+                <input type="radio" id="2" name="payment-method" value="OVO" data-method-type="E-wallet">
+                <img src="./../Assets/Logo_ovo_purple.svg.webp" alt="">
+                <label for="ovo" id="lblOVO"></label>
+            </div>
+            <div class="pembayaran">
+                <input type="radio" id="3" name="payment-method" value="Kredit BCA" data-method-type="Kredit">
+                <img src="./../Assets/Bank_Central_Asia.svg.webp" alt="">
+                <label for="bca-credit" id="lblBCACREDIT"></label>
+            </div>
+            <div class="pembayaran">
+                <input type="radio" id="5" name="payment-method" value="Kredit BNI" data-method-type="Kredit">
+                <img src="./../Assets/BNI_logo.svg.png" alt="">
+                <label for="bni-credit" id="lblBNICREDIT"></label>
+            </div>
+            <div class="button">
+                <button id="btnPay" disabled>Pay</button>
+                <button id="btnCancel">Cancel</button>
+            </div>
+        </form>
+    </div>
+    <script src="./../Javascript/Payment.js"></script>
+</body>
+</html>
