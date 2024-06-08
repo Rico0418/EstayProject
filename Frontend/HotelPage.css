@@ -1,0 +1,273 @@
+body{
+    font-family: "Poppins",sans-serif;
+}
+@media screen and (min-width: 1440px){
+    .logo img{
+        width: 126px;
+        height: 46px;
+    }
+    .profile img{
+        width: 126px;
+        height: 46px;
+    }
+    header{
+        border-bottom: 1px solid black;
+    }
+    header.navbar-container{
+        width: 100%;
+        min-width: 1440px;
+        padding-block: 1rem;
+        margin-inline: auto;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        z-index: 9999;
+    }
+    header.navbar-container .nav-list ul{
+        padding-left: 0;
+        display: flex;
+        justify-content: center;
+        gap: 2rem 1rem;
+    }
+    header.navbar-container .nav-list li{
+        list-style-type: none;
+    }
+    header.navbar-container .nav-list li a{
+        padding: 0.5rem 1.5rem;
+        border: 999px;
+        text-decoration: none;
+        font-size: 1.05rem;
+        font-weight: 500;
+        color: black;
+        transition: all 0.2s ease-in-out;
+    }
+    header.navbar-container .nav-list li:hover a{
+        background-color: #152C5B;
+        color: white;
+    }
+    .isi{
+        padding-top: 2rem; 
+    }
+    .content{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 4rem;
+        padding-top: 2rem;
+    }
+    .activities1{
+        display: flex;
+        flex-direction: row;
+        gap: 2rem;
+        padding-top: 3rem;
+    }
+    .activities1 span{
+        color: #152C5B;
+    }
+    .activities1 p{
+        color: #7A7979;
+    }
+    .activities2{
+        display: flex;
+        flex-direction: row;
+        gap: 2rem;
+        padding-top: 3rem;
+    }
+    .activities2 span{
+        color: #152C5B;
+    }
+    .activities2 p{
+        color: #7A7979;
+    }
+    .kiri h3{
+        font-size: 35px;
+        color: #152C5B;
+    }
+    .kiri{
+        padding-left: 1.5rem;
+    }
+    .coba{
+        border: none;
+        background-image: linear-gradient(to right bottom, #e300ff, #ff00aa, #ff5956, #ffb900, #fffe00);
+        transition: border-top-left-radius 0.2s ease-in, 
+        border-top-right-radius 0.2s ease-in 0.15s, 
+        border-bottom-right-radius 0.2s ease-in 0.3s,
+        border-bottom-left-radius 0.2s ease-in 0.45s, 
+        padding 0.2s ease-in;
+        padding: 20px 20px;
+        border-radius: 1.5em;
+    }
+    .coba:hover{
+        border-radius: 0;
+    }
+    .coba:hover #bagianHotel{
+        border-radius: 0;
+        box-shadow: -25px -10px 30px -5px rgba(225, 0, 255, 0.7),
+        25px -10px 30px -5px rgba(255, 0, 212, 0.7),
+        25px 10px 30px -5px rgba(255, 174, 0, 0.7),
+        -25px 10px 30px -5px rgba(255, 230, 0, 0.7);
+    }
+    .coba:hover .kanan{
+        border-radius: 0;
+        box-shadow: -25px -10px 30px -5px rgba(225, 0, 255, 0.7),
+        25px -10px 30px -5px rgba(255, 0, 212, 0.7),
+        25px 10px 30px -5px rgba(255, 174, 0, 0.7),
+        -25px 10px 30px -5px rgba(255, 230, 0, 0.7);
+    }
+    #bagianHotel{
+        background-color: #212121;
+        color: white;
+        border-radius: 1.3em;
+        display: flex;
+        flex-direction: column;
+        border-radius: 16px;
+        padding: 1.5rem;
+        transition: all 0.2s ease-in,
+        border-top-left-radius 0.2s ease-in, 
+        border-top-right-radius 0.2s ease-in 0.15s, 
+        border-bottom-right-radius 0.2s ease-in 0.3s,
+        border-bottom-left-radius 0.2s ease-in 0.45s,
+        padding 0.2s ease-in;
+        font-weight: 600;
+        box-shadow: -15px -10px 30px -5px rgba(225, 0, 255, 0.8),
+        15px -10px 30px -5px rgba(255, 0, 212, 0.8),
+        15px 10px 30px -5px rgba(255, 174, 0, 0.8),
+        -15px 10px 30px -5px rgba(255, 230, 0.8);
+    }
+    #hotelImage{
+        width: 600px;
+        height: 580px;
+        border-radius: 16px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    }
+    #hotelDescription{
+        color: white;
+        font-weight: 600;
+    }
+    #hotelName{
+        color: #CAF4FF;
+        font-weight: 600;
+    }
+    #hotelPrice{
+        color: white;
+        font-weight: 600;
+    }
+    #hotelLocation{
+        color: white;
+        font-weight: 600;
+    }
+    .kiri p{
+        font-size: 20px;
+        color: #7A7979;
+    }
+    #coba2{
+        height: 500px;
+    }
+    .kanan{
+        background-color: #212121;
+        border: 2px solid black;
+        padding: 1.5rem;
+        border-radius: 16px;
+        height: 450px;
+        transition: all 0.2s ease-in,
+        border-top-left-radius 0.2s ease-in, 
+        border-top-right-radius 0.2s ease-in 0.15s, 
+        border-bottom-right-radius 0.2s ease-in 0.3s,
+        border-bottom-left-radius 0.2s ease-in 0.45s,
+        padding 0.2s ease-in;
+        font-weight: 600;
+        box-shadow: -15px -10px 30px -5px rgba(225, 0, 255, 0.8),
+        15px -10px 30px -5px rgba(255, 0, 212, 0.8),
+        15px 10px 30px -5px rgba(255, 174, 0, 0.8),
+        -15px 10px 30px -5px rgba(255, 230, 0.8);
+    }
+    .kanan h3{
+        font-weight: 600;
+        color: white;
+    }
+    .kanan button{
+        margin-top: 10px;
+        width: 300px;
+        padding: 5px;
+        border: none;
+        background-color: #5AB2FF;
+        color: white;
+        border-radius: 4px;
+        height: 35px;
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        font-weight: 600;
+    }
+    .kanan a{
+        text-decoration: none;
+        color: white;
+    }
+    .treasure{
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 2rem;
+    }
+    .treasure h3{
+        font-size: 25px;
+        color: #152C5B;
+    }
+    .card-treasures{
+        display: flex;
+        flex-direction: row;
+        gap: 5rem;
+        justify-content: center;
+    }
+    .card-treasures img{
+        filter: grayscale(80%);
+    }
+    .card-treasures img:hover{
+        filter: grayscale(0%);
+    }
+    .card{
+        display: flex;
+        flex-direction: column;
+    }
+    .card .place{
+        color: #7A7979;
+        margin-top: 0;
+    }
+    .card .sub{
+        color: #152C5B;
+    }
+    footer{
+        margin-top: 2rem;
+    }
+    footer.bawah{
+        width: 100%;
+        min-width: 1440px;
+        padding-block: 1rem;
+        margin-inline: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        z-index: 9999;
+        background-color: #A3D8FF;
+    }
+    .Detail{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: -0.5rem;
+    }
+    .judul-bawah{
+        color: white;
+    }
+    .Contact{
+        color: white;
+    }
+    .Detail a{
+        text-decoration: none;
+        color: white;
+    }
+    .Detail p{
+        color: white;
+    }
+    footer h3{
+        color: #152C5B;
+    }
+}
